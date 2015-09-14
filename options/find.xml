@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory '/home/manticore/workspace/java/prosdis/OpConsole'" />
+    <option name="defaultScopeName" value="Directory '/home/manticore/workspace/java/prosdis/OpConsole'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '/home/manticore/workspace/java/prosdis/OpConsole'" />
+  </component>
+</application>

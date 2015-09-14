@@ -1,0 +1,2 @@
+org.intellij.intelliLang
+com.intellij.copyright

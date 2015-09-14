@@ -1,0 +1,20 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <knownUpdateChannels>
+      <item value="idea90" />
+      <item value="IDEA10" />
+      <item value="IDEA11" />
+      <item value="IDEA12" />
+      <item value="IDEA_13_1_EAP" />
+      <item value="IDEA13.1" />
+      <item value="IDEA14" />
+      <item value="IDEA_14_EAP" />
+    </knownUpdateChannels>
+    <outdatedPlugins>
+      <item value="mobi.hsz.idea.gitignore" />
+      <item value="YAML/Ansible support" />
+    </outdatedPlugins>
+    <option name="LAST_TIME_CHECKED" value="1418198200396" />
+    <option name="LAST_BUILD_CHECKED" value="IC-139.225" />
+  </component>
+</application>

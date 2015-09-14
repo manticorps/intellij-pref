@@ -1,0 +1,21 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://10.110.0.38" />
+          <option name="userName" value="marc" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@10.110.0.38:gateway-2-0/ae-plugin-pfig.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@10.110.0.38:snmp/tait-bs-ts8100-agent.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/java" />
+  </component>
+</application>

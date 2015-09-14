@@ -1,0 +1,24 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping ext="yml" type="PLAIN_TEXT" />
+      <mapping ext="cvs" type="PLAIN_TEXT" />
+      <mapping pattern="LogFrontBundle_fr_FR" type="Properties" />
+      <mapping pattern="registerAuth" type="XML" />
+      <mapping ext="tagx" type="XML" />
+      <mapping ext="yaml" type="XML" />
+      <mapping ext="jspx" type="XML" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="5" />
+  </component>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="test-configuration" type="PLAIN_TEXT" />
+      <mapping pattern="Log" type="PLAIN_TEXT" />
+      <mapping pattern="todoList" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,56 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>getChanne</find>
+      <find>radioMang</find>
+      <find>amiManager</find>
+      <find>r</find>
+      <find>Aucun site sélectionné pour le canal</find>
+      <find>Une erreur s'est produite code 0</find>
+      <find>Une erreur s'est produite</find>
+      <find>Une erreur s'est produit</find>
+      <find>SelectSiteEvent</find>
+      <find>SelectSiteApi</find>
+      <find>voterClientA</find>
+      <find>voterMan</find>
+      <find>manager</find>
+      <find>selectSite</find>
+      <find>sdn.license.store</find>
+      <find>split</find>
+      <find>dependency</find>
+      <find>sdn-ser</find>
+      <find>rctS</find>
+      <find>productId</find>
+      <find>ver</find>
+      <find>namespace</find>
+      <find>rct</find>
+      <find>jetty</find>
+      <find>threadRct</find>
+      <find>Loca</find>
+      <find>configuration</find>
+      <find>users</find>
+      <find>barrack: &quot;losa&quot;</find>
+      <find>defaultRadioSiteToA</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>radioConsoleDial.hangup();</replace>
+      <replace>radioConsoleDial.hangup()</replace>
+      <replace>securo-1</replace>
+      <replace>paging-1</replace>
+      <replace>// TODO</replace>
+      <replace>.button</replace>
+      <replace>private static final Logger LOG</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/tests/jain-sip-applet-phone~svn/trunk/src/src/gov/nist/applet/phone/ua/gui</dir>
+      <dir>$USER_HOME$/tests/jain-sip-applet-phone~svn</dir>
+      <dir>$USER_HOME$/workspace/java/OpConsole/src/main/java/ch/swissdotnet/opconsole/gui/controllers/main/center</dir>
+      <dir>$USER_HOME$/workspace/java/ts-50136/ts-50136-9-spt</dir>
+      <dir>$USER_HOME$/workspace/java/rct-project/ts-50136-9-commons/src/main/resources/certs/gen</dir>
+      <dir>$USER_HOME$/workspace/java/prosdis/OpConsole</dir>
+      <dir>$USER_HOME$/workspace/java/prosdis/cos</dir>
+      <dir>$USER_HOME$/workspace/java/rct-project/rct-protocol-plugin-tusnet/src/main/test/ch/swissdotnet/rct/protocol/tusnet/unit</dir>
+      <dir>$USER_HOME$/workspace/java/prosdis/cos/src/main/java</dir>
+    </dirStrings>
+  </component>
+</application>
